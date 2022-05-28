@@ -1,6 +1,6 @@
 <!-- ![templete](https://github.com/Jefersoncf/analogic-clock-with-css-html-js/blob/main/print.png) -->
  <p align="center">
-  <img alt="Banner" src="https://github.com/Jefersoncf/analogic-clock-with-css-html-javascript/blob/main/print.png">
+  <img alt="Banner" src="/img/print.png">
  </p>
  
   <h1 align="center">
