@@ -7,10 +7,10 @@
     Relógio Analógico
 </h1>
 
-Relógio Analógico criado com intuito de praticar CSS e HTML.
+Relógio Analógico simples com três ponteiros que marcam hora, minutos e segundos.
 
 ## Tecnologias
-Tecnogolias utilizadas:
+Tecnologias utilizadas:
 * CSS
 * HTML
 * JavaScript
@@ -19,7 +19,7 @@ Tecnogolias utilizadas:
   * Github Pages
 
 ## Links
- - Aplicação rodando:
+ - Aplicação rodando:https://jefersoncf.github.io/analogic-clock-with-css-html-javascript/
  
  ## Autor
  * **Jeferson Ferreira**: Jefersoncf https://github.com/Jefersoncf
